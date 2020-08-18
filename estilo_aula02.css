@@ -1,0 +1,20 @@
+p{
+    color: #f00;
+    font-size: 20pt;
+}
+/*#p1{
+    color: #00f;
+}*/
+.p1{
+    color: #0f0;
+}
+h4, h5, h6{
+    color: #800;
+    font-size: 15pt;
+}
+/*
+    hieraquia: id > class > tag
+    O id tem que ser único dentro de uma página
+    A classes pode ser repitidas em vários elemento
+
+*/
