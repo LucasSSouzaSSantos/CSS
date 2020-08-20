@@ -1,0 +1,7 @@
+p{
+    width: 300px;
+    border-top: #000 solid 10px;
+    border-bottom: #f00 solid 10px;
+    border-left: #000 solid 10px;
+    border-right: #f00 solid 10px;
+}
