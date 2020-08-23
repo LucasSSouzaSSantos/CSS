@@ -1,0 +1,6 @@
+p{
+    width: 400px;
+    text-align: center;
+    border: #000 solid 30px;
+    border-image: url(/image/borda1.png) 30 round;
+}
