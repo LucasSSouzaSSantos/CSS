@@ -1,0 +1,27 @@
+p{
+    font-size: 50px;
+}
+#dv1{
+    position: absolute;
+    top: 50px;
+    left: 600px;
+    width: 100px;
+    height: 100px;
+    background-color: rgb(255, 0, 0);
+}
+#dv2{
+    position: absolute;
+    top: 50px;
+    left: 500px;
+    width: 100px;
+    height: 100px;
+    background-color: rgb(0, 255, 0);
+}
+#dv3{
+    position: absolute;
+    top: 0px;
+    left: 550px;
+    width: 100px;
+    height: 100px;
+    background-color: rgb(0, 0, 255);
+}
